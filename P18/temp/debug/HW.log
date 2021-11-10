@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+d:\110360212_謝旻翰\p18\source\main.c(19): warning C4098: 'main': 'void' 函式正在傳回值
+d:\110360212_謝旻翰\p18\source\main.c(7): warning C4101: 'string1': 未參考的區域變數
+  HW.vcxproj -> D:\110360212_謝旻翰\P18\HW\HW\..\..\temp\debug\HW.exe
