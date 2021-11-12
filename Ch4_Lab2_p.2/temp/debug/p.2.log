@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
-  Main.c
-d:\c_code\ch4_lab2\ch4_lab2_p.2\source\main.c(8): warning C4047: '函式': 'int *' 與 'int' 間接取值的層級不同
-d:\c_code\ch4_lab2\ch4_lab2_p.2\source\main.c(8): warning C4024: 'addbyone': 型式和實質參數 1 不同的類型
-d:\c_code\ch4_lab2\ch4_lab2_p.2\source\main.c(12): warning C4028: 型式參數 1 與來自宣告的不同
-  p.2.vcxproj -> D:\C_code\Ch4_Lab2\Ch4_Lab2_p.2\p.2\p.2\..\..\temp\debug\p.2.exe
